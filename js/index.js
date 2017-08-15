@@ -1,4 +1,4 @@
-// by iwuly
+// by dongwen
 (function($, window, undefined) {
 
 	var ui = {
